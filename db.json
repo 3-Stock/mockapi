@@ -1,0 +1,124 @@
+{
+  "api": [
+    { 
+      "body": "Metallabgabe! Freihändiger Verkauf ... Sofortige Metallabgabe dringend geboten! Vorteile des freihändigen Verkaufes: 1. Gewährung einheitlicher Preise", 
+      "image": "/public/media/images/api/AC10557242-4201.jpeg",
+      "sprache": "de",
+      "verlag": "verlag1",
+      "verlagsort": "verlagsort1",
+      "thema": "themen3",
+      "formate": "formate2",
+      "personen": "personen4"
+    },
+    { 
+      "body": "Holland im Schauspielhaus ... Zwei Stimmen ... Pier Paolo Pasolini, Cor Herkströter ... 7. - 9.12.2001 ... Warum weinen Babies, wenn sie auf die Welt kommen? ... Ko van den Bosch ... 14. - 18.12.2001", 
+      "image": "/public/media/images/api/AC15260324-4201.jpeg",
+      "sprache": "de",
+      "verlag": "verlag3",
+      "verlagsort": "verlagsort3",
+      "thema": "themen3",
+      "formate": "formate1",
+      "personen": "personen4"
+    },
+    { 
+      "body": "Karacho ... Wir ewigen Kinder ... Ab November 1990 ... Serapions Theater", 
+      "image": "/public/media/images/api/AC13056292-4201.jpeg",
+      "sprache": "en",
+      "verlag": "verlag1",
+      "verlagsort": "verlagsort1",
+      "thema": "themen1",
+      "formate": "formate1",
+      "personen": "personen3"
+    },
+    { 
+      "body": "Schauspielhaus ... Nachtmahl ... 7. - 16.2.2002", 
+      "image": "/public/media/images/api/AC15260209-4201.jpeg",
+      "sprache": "de",
+      "verlag": "verlag4",
+      "verlagsort": "verlagsort4",
+      "thema": "themen2",
+      "formate": "formate1",
+      "personen": "personen4"
+    },
+    { 
+      "body": "Plakat 5", 
+      "image": "/public/media/images/api/AC10557242-4201.jpeg",
+      "sprache": "en",
+      "verlag": "verlag4",
+      "verlagsort": "verlagsort3",
+      "thema": "themen3",
+      "formate": "formate3",
+      "personen": "personen2"
+    },
+    { 
+      "body": "Plakat 6", 
+      "image": "/public/media/images/api/AC15260324-4201.jpeg",
+      "sprache": "en",
+      "verlag": "verlag2",
+      "verlagsort": "verlagsort2",
+      "thema": "themen3",
+      "formate": "formate4",
+      "personen": "personen4"
+    },
+    { 
+      "body": "Plakat 7", 
+      "image": "/public/media/images/api/AC13056292-4201.jpeg",
+      "sprache": "en",
+      "verlag": "verlag2",
+      "verlagsort": "verlagsort2",
+      "thema": "themen1",
+      "formate": "formate1",
+      "personen": "personen1"
+    },
+    { 
+      "body": "Plakat 8", 
+      "image": "/public/media/images/api/AC15260209-4201.jpeg",
+      "sprache": "de",
+      "verlag": "verlag4",
+      "verlagsort": "verlagsort1",
+      "thema": "themen2",
+      "formate": "formate2",
+      "personen": "personen1"
+    },
+    { 
+      "body": "Plakat 9", 
+      "image": "/public/media/images/api/AC15260324-4201.jpeg",
+      "sprache": "de",
+      "verlag": "verlag3",
+      "verlagsort": "verlagsort1",
+      "thema": "themen2",
+      "formate": "formate1",
+      "personen": "personen4"
+    },
+    { 
+      "body": "Plakat 10", 
+      "image": "/public/media/images/api/AC10557242-4201.jpeg",
+      "sprache": "en",
+      "verlag": "verlag3",
+      "verlagsort": "verlagsort1",
+      "thema": "themen4",
+      "formate": "formate2",
+      "personen": "personen1"
+    },
+    { 
+      "body": "Plakat 11", 
+      "image": "/public/media/images/api/AC15260209-4201.jpeg",
+      "sprache": "de",
+      "verlag": "verlag4",
+      "verlagsort": "verlagsort4",
+      "thema": "themen2",
+      "formate": "formate3",
+      "personen": "personen1"
+    },
+    { 
+      "body": "Plakat 12", 
+      "image": "/public/media/images/api/AC13056292-4201.jpeg",
+      "sprache": "de",
+      "verlag": "verlag2",
+      "verlagsort": "verlagsort4",
+      "thema": "themen3",
+      "formate": "formate4",
+      "personen": "personen2"
+    }  
+  ]
+}
